@@ -1,5 +1,5 @@
 [versions]
-managed-azure-sdk = "1.2.4"
+managed-azure-sdk = "1.2.5"
 managed-azure-functions-java-library = "1.4.2"
 
 groovy = "3.0.12"
